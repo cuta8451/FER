@@ -6,7 +6,12 @@
 * [trans_model.py](https://github.com/cuta8451/FER/blob/master/trans_model.py)
     * 模型訓練
 * [dlib_picture.py](https://github.com/cuta8451/FER/blob/master/dlib_picture.py)
-    * 實際圖片中的人臉情緒偵測
+    * demo的演算法
+* [fer_ui.py](https://github.com/cuta8451/FER/blob/master/fer_ui.py)
+    * demo的ui介面
+* [fer_main.py](https://github.com/cuta8451/FER/blob/master/fer_main.py)
+    * demo的介面背後的model
+
 
 ## 資料集說明(dataset description)
 * 使用的是Kaggle上的FER2013資料集：Challenges in Representation Learning: Facial Expression Recognition
@@ -39,5 +44,6 @@
     * ![](https://i.imgur.com/Yjib91r.png)
     * 
 
-
+* Demo
+    * [Demo.mp4](https://github.com/cuta8451/FER/blob/master/DEMO.mp4)
 
